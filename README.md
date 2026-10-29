@@ -51,7 +51,8 @@ Stick figures represent actors in the process, and the actor's participation in 
 
 ### Use Case Diagram
 
-![Use Case Diagram](https://github.com/225661988/ATM-AND-BANKING-SYSTEM/raw/main/exp1usecase.png)
+<img width="525" height="872" alt="image" src="https://github.com/user-attachments/assets/6c6463cc-65ca-4995-906f-959ecb94517d" />
+
 
 ## CLASS DIAGRAM
 
@@ -68,7 +69,8 @@ Class diagrams are used by software engineers to document software architecture.
 
 ### Class Diagram
 
-![Class Diagram](https://github.com/225661988/ATM-AND-BANKING-SYSTEM/raw/main/exp1class.png)
+<img width="632" height="754" alt="image" src="https://github.com/user-attachments/assets/414711b6-c905-4328-9f5d-2c48618030cb" />
+
 
 ## COMMUNICATION DIAGRAM
 
@@ -78,7 +80,8 @@ Communication diagrams help provide a better understanding of how components com
 
 ### Communication Diagram
 
-![Communication Diagram](https://github.com/225661988/ATM-AND-BANKING-SYSTEM/raw/main/communicaton.png)
+<img width="1610" height="467" alt="image" src="https://github.com/user-attachments/assets/607d469e-2020-4334-8255-c0f3c582f4d2" />
+
 
 ## PACKAGE DIAGRAM
 
@@ -97,7 +100,8 @@ Package diagrams are commonly used to provide a visual organization of the layer
 
 ### Package Diagram
 
-![Package Diagram](https://github.com/225661988/ATM-AND-BANKING-SYSTEM/raw/main/package.png)
+<img width="1334" height="1190" alt="image" src="https://github.com/user-attachments/assets/75c47527-f02f-4ec7-9f08-08a33e9c5d79" />
+
 
 ## ACTIVITY DIAGRAM
 
@@ -116,7 +120,8 @@ Activity diagrams help business stakeholders and developers understand the same 
 
 ### Activity Diagram
 
-![Activity Diagram](https://github.com/225661988/ATM-AND-BANKING-SYSTEM/raw/main/activity.png)
+<img width="597" height="2160" alt="image" src="https://github.com/user-attachments/assets/d7d7f7ac-6b1a-42a6-a3ca-301a97694cc1" />
+
 
 ## SEQUENCE DIAGRAM
 
@@ -133,7 +138,8 @@ These diagrams are used by software developers and business professionals to und
 
 ### Sequence Diagram
 
-![Sequence Diagram](https://github.com/225661988/ATM-AND-BANKING-SYSTEM/raw/main/sequence.png)
+<img width="1146" height="1253" alt="image" src="https://github.com/user-attachments/assets/e50ee299-ecb3-4f1c-8532-48b772902a09" />
+
 
 ## RESULT
 
